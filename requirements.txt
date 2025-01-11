@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+aiohttp
+pydantic
+certifi
+playwright
+playwright-stealth
+logging
+tenacity
